@@ -1,3 +1,5 @@
+//Arduino code
+
 #define echoPin 2
 #define trigPin 3
 
